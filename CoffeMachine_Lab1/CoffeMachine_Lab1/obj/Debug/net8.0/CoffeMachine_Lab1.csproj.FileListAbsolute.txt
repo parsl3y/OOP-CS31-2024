@@ -1,0 +1,14 @@
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\bin\Debug\net8.0\CoffeMachine_Lab1.exe
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\bin\Debug\net8.0\CoffeMachine_Lab1.deps.json
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\bin\Debug\net8.0\CoffeMachine_Lab1.runtimeconfig.json
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\bin\Debug\net8.0\CoffeMachine_Lab1.dll
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\bin\Debug\net8.0\CoffeMachine_Lab1.pdb
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\obj\Debug\net8.0\CoffeMachine_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\obj\Debug\net8.0\CoffeMachine_Lab1.AssemblyInfoInputs.cache
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\obj\Debug\net8.0\CoffeMachine_Lab1.AssemblyInfo.cs
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\obj\Debug\net8.0\CoffeMachine_Lab1.csproj.CoreCompileInputs.cache
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\obj\Debug\net8.0\CoffeMachine_Lab1.dll
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\obj\Debug\net8.0\refint\CoffeMachine_Lab1.dll
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\obj\Debug\net8.0\CoffeMachine_Lab1.pdb
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\obj\Debug\net8.0\CoffeMachine_Lab1.genruntimeconfig.cache
+D:\Programming\Rider\CoffeMachine_Lab1\CoffeMachine_Lab1\obj\Debug\net8.0\ref\CoffeMachine_Lab1.dll

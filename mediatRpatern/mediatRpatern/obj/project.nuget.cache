@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jz7qQvrdNvs=",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Rider\\OOP_C#_LABS\\mediatRpatern\\mediatRpatern\\mediatRpatern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Burch\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Burch\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

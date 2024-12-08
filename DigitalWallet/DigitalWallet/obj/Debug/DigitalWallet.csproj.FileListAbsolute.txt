@@ -1,0 +1,6 @@
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\DigitalWallet\bin\Debug\DigitalWallet.exe
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\DigitalWallet\bin\Debug\DigitalWallet.pdb
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\DigitalWallet\obj\Debug\DigitalWallet.csproj.AssemblyReference.cache
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\DigitalWallet\obj\Debug\DigitalWallet.csproj.CoreCompileInputs.cache
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\DigitalWallet\obj\Debug\DigitalWallet.exe
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\DigitalWallet\obj\Debug\DigitalWallet.pdb

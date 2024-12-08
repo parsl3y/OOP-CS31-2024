@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sE9lAujxppo=",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Rider\\OOP_C#_LABS\\Library\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Burch\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Burch\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

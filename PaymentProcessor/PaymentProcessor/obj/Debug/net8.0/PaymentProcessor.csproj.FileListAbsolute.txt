@@ -1,0 +1,14 @@
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\bin\Debug\net8.0\PaymentProcessor.exe
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\bin\Debug\net8.0\PaymentProcessor.deps.json
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\bin\Debug\net8.0\PaymentProcessor.runtimeconfig.json
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\bin\Debug\net8.0\PaymentProcessor.dll
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\bin\Debug\net8.0\PaymentProcessor.pdb
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\obj\Debug\net8.0\PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\obj\Debug\net8.0\PaymentProcessor.AssemblyInfoInputs.cache
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\obj\Debug\net8.0\PaymentProcessor.AssemblyInfo.cs
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\obj\Debug\net8.0\PaymentProcessor.csproj.CoreCompileInputs.cache
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\obj\Debug\net8.0\PaymentProcessor.dll
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\obj\Debug\net8.0\refint\PaymentProcessor.dll
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\obj\Debug\net8.0\PaymentProcessor.pdb
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\obj\Debug\net8.0\PaymentProcessor.genruntimeconfig.cache
+D:\Programming\Rider\PaymentProcessor\PaymentProcessor\obj\Debug\net8.0\ref\PaymentProcessor.dll

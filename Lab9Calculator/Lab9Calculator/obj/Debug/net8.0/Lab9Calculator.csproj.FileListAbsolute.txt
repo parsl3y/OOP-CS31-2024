@@ -1,0 +1,14 @@
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\bin\Debug\net8.0\Lab9Calculator.exe
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\bin\Debug\net8.0\Lab9Calculator.deps.json
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\bin\Debug\net8.0\Lab9Calculator.runtimeconfig.json
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\bin\Debug\net8.0\Lab9Calculator.dll
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\bin\Debug\net8.0\Lab9Calculator.pdb
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\obj\Debug\net8.0\Lab9Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\obj\Debug\net8.0\Lab9Calculator.AssemblyInfoInputs.cache
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\obj\Debug\net8.0\Lab9Calculator.AssemblyInfo.cs
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\obj\Debug\net8.0\Lab9Calculator.csproj.CoreCompileInputs.cache
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\obj\Debug\net8.0\Lab9Calculator.dll
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\obj\Debug\net8.0\refint\Lab9Calculator.dll
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\obj\Debug\net8.0\Lab9Calculator.pdb
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\obj\Debug\net8.0\Lab9Calculator.genruntimeconfig.cache
+D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\Lab9Calculator\obj\Debug\net8.0\ref\Lab9Calculator.dll

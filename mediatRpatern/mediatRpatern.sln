@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediatRpatern", "mediatRpatern\mediatRpatern.csproj", "{5453D7EE-8DFC-4ABA-98CD-861F356185A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{1944243B-70BE-42F1-9C27-98FA33BAD3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5453D7EE-8DFC-4ABA-98CD-861F356185A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5453D7EE-8DFC-4ABA-98CD-861F356185A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5453D7EE-8DFC-4ABA-98CD-861F356185A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5453D7EE-8DFC-4ABA-98CD-861F356185A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1944243B-70BE-42F1-9C27-98FA33BAD3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1944243B-70BE-42F1-9C27-98FA33BAD3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1944243B-70BE-42F1-9C27-98FA33BAD3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1944243B-70BE-42F1-9C27-98FA33BAD3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

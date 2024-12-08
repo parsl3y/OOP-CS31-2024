@@ -1,0 +1,14 @@
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\bin\Debug\net8.0\CoffeMachine.exe
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\bin\Debug\net8.0\CoffeMachine.deps.json
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\bin\Debug\net8.0\CoffeMachine.runtimeconfig.json
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\bin\Debug\net8.0\CoffeMachine.dll
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\bin\Debug\net8.0\CoffeMachine.pdb
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\obj\Debug\net8.0\CoffeMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\obj\Debug\net8.0\CoffeMachine.AssemblyInfoInputs.cache
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\obj\Debug\net8.0\CoffeMachine.AssemblyInfo.cs
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\obj\Debug\net8.0\CoffeMachine.csproj.CoreCompileInputs.cache
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\obj\Debug\net8.0\CoffeMachine.dll
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\obj\Debug\net8.0\refint\CoffeMachine.dll
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\obj\Debug\net8.0\CoffeMachine.pdb
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\obj\Debug\net8.0\CoffeMachine.genruntimeconfig.cache
+D:\Programming\Rider\Lab1_C#_OOP\DigitalWallet\CoffeMachine\obj\Debug\net8.0\ref\CoffeMachine.dll
