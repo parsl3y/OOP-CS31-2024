@@ -1,6 +1,0 @@
-D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\CalculatorTests\bin\Debug\net8.0\CoverletSourceRootsMapping_CalculatorTests
-D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.csproj.AssemblyReference.cache
-D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
-D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.AssemblyInfoInputs.cache
-D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.AssemblyInfo.cs
-D:\Programming\Rider\OOP_C#_LABS\Lab9Calculator\CalculatorTests\obj\Debug\net8.0\CalculatorTests.csproj.CoreCompileInputs.cache
